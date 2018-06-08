@@ -6,7 +6,7 @@
   "dependencies": {
     "asciitree": "1.0.0",
     "colors": "1.1.2",
-    "whereis": "0.4.0",
+    "whereis": "0.4.1",
     "async": "1.4.2",
     "cli-color": "1.1.0",
     "optimist": "0.6.1"
